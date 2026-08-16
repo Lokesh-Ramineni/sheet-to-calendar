@@ -1,0 +1,1879 @@
+{
+    "menu": {
+        "1": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Masala Ghee Roast Dosa",
+                        "Vada Pav",
+                        "Groundnut Chutney",
+                        "Mint Chutney",
+                        "White Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Scrambled Egg",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Carrot & Cucumber Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Mudda Pappu",
+                        "Beetroot Tomato Rasam",
+                        "Pulihora (Tamarind Rice)",
+                        "Majiga Pulusu",
+                        "Chole Soya Chunks Curry",
+                        "Papad",
+                        "Lemon Water",
+                        "Avakaya (Mango Pickle)"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Punugulu 10 Pcs Std Size",
+                    "snacks_side": "Groundnut/Coconut Chutney",
+                    "snacks_beverages": [
+                        "Ginger Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Roti",
+                        "White Rice",
+                        "Mango Dal",
+                        "Bachali Kura Pulusu (Malabar Spinach)",
+                        "Adai Dosa -2 Pcs, Tomato Onion Chutney",
+                        "Cabbage Beans Poriyal",
+                        "Tomato Baingan Masala",
+                        "Thick Curd",
+                        "Muskmelon Cut Fruit",
+                        "Red Chilli Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "2": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Shavige Bath",
+                        "Paneer Paratha - 2 Pcs Thin",
+                        "Coconut Chutney",
+                        "Thick Curd, Mango Pickle",
+                        "Brown Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Egg Bhurji ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Beetroot & Cucumber Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Dal",
+                        "Sambar",
+                        "Chicken Dum Biryani/Vegetable Dum Biryani",
+                        "Chicken Thick Gravy / Hyderabadi Mirchi Ka Salan",
+                        "Onion Raitha",
+                        "Fryums",
+                        "Nannari Sharbath",
+                        "Fresh Gongura Chutney",
+                        "Vanilla Ice Cream (Made with Milk)"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Dahi Puri (8 Pcs)",
+                    "snacks_side": "Onions",
+                    "snacks_beverages": [
+                        "Masala Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Red Lentil Dal",
+                        "Rasam",
+                        "Ragi Idly, Groundnut Chutney",
+                        "Dondakaya Fry",
+                        "Vegetable Kurma Gravy",
+                        "Thick Curd",
+                        "Papaya Cut Fruit",
+                        "Tomato Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "3": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Carrot Idly ",
+                        "Bhature - 2 Pcs Big ",
+                        "Groundnut Chutney",
+                        "Chole Curry",
+                        "Brown Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Egg Bhurji ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Beetroot & Cucumber Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Palak Dal",
+                        "Sambar",
+                        "Tomato Rice",
+                        "Pesara Punugulu Curry (Pakka Andhra Style)",
+                        "Drumstick Tomato Masala",
+                        "Rava Vadiyalu",
+                        "Butter Milk",
+                        "Sorakaya Perugu Chutney, Ghee + Podi",
+                        "Jilebi"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Dry Maggi",
+                    "snacks_side": "Tomato Sauce",
+                    "snacks_beverages": [
+                        "Masala Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Onions & Lemon Salad",
+                        "Methi Roti",
+                        "White Rice",
+                        "Pesara Pappu",
+                        "Tomato Rasam",
+                        "Bhagara Rice",
+                        "Telangana Chicken Curry (Non-Veg)",
+                        "Achari Paneer (Veg)",
+                        "Ladies Finger Boiled Fry",
+                        "Thick Curd",
+                        "Mixed Fruit Salad",
+                        "Gongura Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "4": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Multi Grain Dosa (2 Pcs Thin)",
+                        "Pav Bhaji",
+                        "Coconut Chutney",
+                        "Mint Chutney",
+                        "White Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Scrambled Egg ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Carrot & Cucumber Salad",
+                        "Roti",
+                        "White Rice",
+                        "Amaranthus Dal",
+                        "Beetroot Tomato Rasam",
+                        "Bisbele Bath",
+                        "Kakarakaya (Bitter Gourd) Fry",
+                        "Rajma Masala",
+                        "Potato Chips",
+                        "Dahi Vada",
+                        "Dosakaya Tomato Chutney"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Aloo Samosa 1 Big Pc",
+                    "snacks_side": "Tomato Sauce",
+                    "snacks_beverages": [
+                        "Ginger Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Dal Makhani",
+                        "Sambar",
+                        "Mushroom Biryani",
+                        "Snake Gourd Poriyal",
+                        "Aloo Mutter Curry",
+                        "Thick Curd",
+                        "Guava Fruit",
+                        "Tomato Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "5": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Methu Vada (Big size 3pcs, if not 4pcs)",
+                        "Vegetable Dalia",
+                        "Sambar",
+                        "Coconut Chutney",
+                        "Brown Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Masala Onion Omlet ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Onions & Lemon Salad",
+                        "Palak Roti",
+                        "White Rice",
+                        "Gongura (Sorrel Leaves) Dal",
+                        "Sambar",
+                        "Vegetable Dum Pulav",
+                        "Masala Fish Fry",
+                        "Kaju Tomato Paneer Boiled Fry",
+                        "Black Chana Masala",
+                        "Trinagle Fryums",
+                        "Butter Milk",
+                        "Coriander + Tomato Chutney",
+                        "Gulab Jamun"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Corn Vada",
+                    "snacks_side": "Onion Tomato Chutney",
+                    "snacks_beverages": [
+                        "Masala Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Tomato Dal",
+                        "Rasam",
+                        "Sooji Upma, Coconut Chutney",
+                        "Carrot Beans Poriyal",
+                        "Soya Chunks Masala",
+                        "Thick Curd",
+                        "Pineapple Cut Fruit",
+                        "Lemon Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "6": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Onion & Carrot Uttappam (2 pcs standard size)",
+                        "Poha",
+                        "Sambar",
+                        "Groundnut Chutney ",
+                        "White Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Boiled Egg ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Carrot & Cucumber Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Ridge Gourd Dal",
+                        "Sambar",
+                        "Pudina Rice",
+                        "Guthi Vankaya Curry",
+                        "Cluster Beans Masala",
+                        "Finger Fryums",
+                        "Lemon Water",
+                        "Potlakaya Perugu Chutney"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Poha Cutlet",
+                    "snacks_side": "Mint Sauce",
+                    "snacks_beverages": [
+                        "Ginger Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Roti",
+                        "White Rice",
+                        "Dal Maharani",
+                        "Beetroot Tomato Rasam",
+                        "Veg Manchuria",
+                        "Arbi Ka Gravy",
+                        "Thick Curd",
+                        "Banana",
+                        "Ginger Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "7": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Uggani + Mirchi Bajji",
+                        "Basin Chilla (2 Pcs thin) or Methi Roti",
+                        "Coconut Chutney",
+                        "Green Peas + Tomato Sabji",
+                        "Brown Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Boiled Egg ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Beetroot & Cucumber Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Dal Tadka",
+                        "Rasam",
+                        "Jeera Rice",
+                        "Raw Banana Fry",
+                        "Yam ka Gravy",
+                        "Papad",
+                        "Lassi",
+                        "Beerakaya Chutney",
+                        "Semiya Payasam"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Palak Pakoda",
+                    "snacks_side": "Mint Sauce",
+                    "snacks_beverages": [
+                        "Masala Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Onions & Lemon Salad",
+                        "Lacha Paratha",
+                        "White Rice",
+                        "Pesara Pappu",
+                        "Sambar",
+                        "Chicken Tikka Masala (Non-Veg)",
+                        "Kadai Paneer (Veg)",
+                        "Tomato Peas Capsicum Masala",
+                        "Thick Curd",
+                        "Grapes",
+                        "Mango Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "8": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Masala Ghee Roast Dosa",
+                        "Vada Pav",
+                        "Groundnut Chutney",
+                        "Mint Chutney",
+                        "Brown Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Scrambled Egg ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Carrot & Cucumber Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Mudda Pappu",
+                        "Beetroot Tomato Rasam",
+                        "Pulihora (Tamarind Rice)",
+                        "Majiga Pulusu",
+                        "Chole Soya Chunks Curry",
+                        "Papad",
+                        "Lemon Water",
+                        "Avakaya (Mango Pickle)"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Mysore Bonda 2 Pcs Std Size",
+                    "snacks_side": "Coconut Chutney",
+                    "snacks_beverages": [
+                        "Masala Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Roti",
+                        "White Rice",
+                        "Mango Dal",
+                        "Bachali Kura Pulusu (Malabar Spinach)",
+                        "Podi Onion Dosa -2 Pcs, Dal Chutney",
+                        "Cabbage Beans Poriyal",
+                        "Tomato Baingan Masala",
+                        "Thick Curd",
+                        "Muskmelon Cut Fruit",
+                        "Red Chilli Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "9": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Shavige Bath",
+                        "Aloo Paratha (2 Pcs Thin)",
+                        "Coconut Chutney",
+                        "Thick Curd, Mango Pickle",
+                        "White Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Egg Bhurji ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Beetroot & Cucumber Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Dal",
+                        "Sambar",
+                        "Chicken Dum Biryani/Vegetable Dum Biryani",
+                        "Chicken Thick Gravy / Hyderabadi Mirchi Ka Salan",
+                        "Onion Raitha",
+                        "Fryums",
+                        "Nannari Sharbath",
+                        "Fresh Gongura Chutney",
+                        "Vanilla Ice Cream (Not Frozen Dessert)"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Pani Puri (8 Pcs)",
+                    "snacks_side": "Onions",
+                    "snacks_beverages": [
+                        "Ginger Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Red Lentil Dal",
+                        "Rasam",
+                        "Ragi Idly, Groundnut Chutney",
+                        "Dondakaya Fry",
+                        "Vegetable Kurma Gravy",
+                        "Thick Curd",
+                        "Papaya Cut Fruit",
+                        "Tomato Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "10": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Vegetable Rava Idly (Bangalore Style)",
+                        "Poori - 3 Pcs Big",
+                        "Groundnut Chutney",
+                        "Chole Curry",
+                        "White Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Scrambled Egg",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Beetroot & Cucumber Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Palak Dal",
+                        "Sambar",
+                        "Tomato Rice",
+                        "Potato Fry (Andha Style)",
+                        "Drumstick Tomato Masala",
+                        "Rava Vadiyalu",
+                        "Butter Milk",
+                        "Sorakaya Perugu Chutney, Ghee + Podi",
+                        "Sweet Boondi"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Sweet Corn Masala",
+                    "snacks_side": "Tomato/Mint Sauce",
+                    "snacks_beverages": [
+                        "Ginger Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Onions & Lemon Salad",
+                        "Methi Roti",
+                        "White Rice",
+                        "Pesara Pappu",
+                        "Tomato Rasam",
+                        "Bhagara Rice",
+                        "Chettinad Chicken Curry (Non-Veg)",
+                        "Paneer Pepper Fry(Veg)",
+                        "Bhindi Masala",
+                        "Thick Curd",
+                        "Mixed Fruit Salad",
+                        "Gongura Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "11": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Onion Dosa - 2 Pcs Std Size",
+                        "Pav Bhaji",
+                        "Coconut Chutney",
+                        "Mint Chutney",
+                        "Brown Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Boiled Egg ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Carrot & Cucumber Salad",
+                        "Roti",
+                        "White Rice",
+                        "Amaranthus Dal",
+                        "Beetroot Tomato Rasam",
+                        "Bisbele Bath",
+                        "Kakarakaya (Bitter Gourd) Fry",
+                        "Rajma Masala",
+                        "Potato Chips",
+                        "Dahi Vada",
+                        "Dosakaya Tomato Chutney"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Kachori 1 Big Pc",
+                    "snacks_side": "Tomato Sauce",
+                    "snacks_beverages": [
+                        "Masala Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Dal Makhani",
+                        "Sambar",
+                        "Mushroom Biryani",
+                        "Snake Gourd Poriyal",
+                        "Aloo Mutter Curry",
+                        "Thick Curd",
+                        "Guava Fruit",
+                        "Tomato Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "12": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Onion Rava Bonda (Big size 3pcs, if not 4pcs)",
+                        "Vegetable Moon Dal Kitchidi",
+                        "Groundnut Chutney + Sambar",
+                        "Mango Pickle",
+                        "White Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Masala Onion Omlet ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Onions & Lemon Salad",
+                        "Palak Roti",
+                        "White Rice",
+                        "Dal",
+                        "Pachi Pulusu",
+                        "Special Rice",
+                        "Boiled Stir Fry Chicken Masala (Dry)",
+                        "Boiled Stir Fry Paneer Masala (Dry)",
+                        "Vegetable Jalfrezi",
+                        "Chips/Fryums/Papad",
+                        "Butter Milk/Lassi/Lemon Water",
+                        "Fresh Vegetable Chutney",
+                        "Badusha"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Vada Pav 2 Pcs",
+                    "snacks_side": "Mint Sauce",
+                    "snacks_beverages": [
+                        "Ginger Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Tomato Dal",
+                        "Rasam",
+                        "Broken Wheat Rava Upma, Coconut Chutney",
+                        "Carrot Beans Poriyal",
+                        "Arbi Ka Gravy",
+                        "Thick Curd",
+                        "Pineapple Cut Fruit",
+                        "Lemon Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "13": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Mix Veg Uttappam (2 pcs standard size)",
+                        "Poha",
+                        "Sambar",
+                        "Coconut Chutney",
+                        "Brown Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Egg Poach ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Carrot & Cucumber Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Ridge Gourd Dal",
+                        "Sambar",
+                        "Pudina Rice",
+                        "Guthi Vankaya Curry",
+                        "Kala Chana Masala",
+                        "Finger Fryums",
+                        "Lemon Water",
+                        "Potlakaya Perugu Chutney"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Sambar Vada",
+                    "snacks_side": "Masala Tea/Coffee/Milk",
+                    "snacks_beverages": []
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Roti",
+                        "White Rice",
+                        "Dal Fry",
+                        "Beetroot Tomato Rasam",
+                        "Gobhi Manchuria",
+                        "Rajma Masala",
+                        "Thick Curd",
+                        "Banana",
+                        "Ginger Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "14": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Uggani + Mirchi Bajji",
+                        "Basin Chilla (2 Pcs thin)",
+                        "Coconut Chutney",
+                        "Tomato Chutney",
+                        "White Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Boiled Egg ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Beetroot & Cucumber Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Dal Tadka",
+                        "Rasam",
+                        "Jeera Rice",
+                        "Raw Banana Fry",
+                        "Lobia Masala (Cowpeas in Onion Tomato Gravy)",
+                        "Papad",
+                        "Lassi",
+                        "Beerakaya Chutney",
+                        "Poornalu "
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Onion Soft Pakoda",
+                    "snacks_side": "Tomato Chutney",
+                    "snacks_beverages": [
+                        "Ginger Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Onions & Lemon Salad",
+                        "Missi Roti",
+                        "White Rice",
+                        "Dal",
+                        "Sambar",
+                        "Dhaba Style Chicken Curry (Non-Veg)",
+                        "Paneer Butter Masala (Veg)",
+                        "Vegetable Kolhapuri",
+                        "Thick Curd",
+                        "Grapes",
+                        "Fresh Vegetable Chutney/Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "15": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Masala Ghee Roast Dosa",
+                        "Vada Pav",
+                        "Groundnut Chutney",
+                        "Mint Chutney",
+                        "White Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Scrambled Egg",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Carrot & Cucumber Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Mudda Pappu",
+                        "Beetroot Tomato Rasam",
+                        "Pulihora (Tamarind Rice)",
+                        "Majiga Pulusu",
+                        "Chole Soya Chunks Curry",
+                        "Papad",
+                        "Lemon Water",
+                        "Avakaya (Mango Pickle)"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Punugulu 10 Pcs Std Size",
+                    "snacks_side": "Groundnut/Coconut Chutney",
+                    "snacks_beverages": [
+                        "Ginger Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Roti",
+                        "White Rice",
+                        "Mango Dal",
+                        "Bachali Kura Pulusu (Malabar Spinach)",
+                        "Adai Dosa -2 Pcs, Tomato Onion Chutney",
+                        "Cabbage Beans Poriyal",
+                        "Tomato Baingan Masala",
+                        "Thick Curd",
+                        "Muskmelon Cut Fruit",
+                        "Red Chilli Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "16": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Shavige Bath",
+                        "Paneer Paratha - 2 Pcs Thin",
+                        "Coconut Chutney",
+                        "Thick Curd, Mango Pickle",
+                        "Brown Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Egg Bhurji ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Beetroot & Cucumber Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Dal",
+                        "Sambar",
+                        "Chicken Dum Biryani/Vegetable Dum Biryani",
+                        "Chicken Thick Gravy / Hyderabadi Mirchi Ka Salan",
+                        "Onion Raitha",
+                        "Fryums",
+                        "Nannari Sharbath",
+                        "Fresh Gongura Chutney",
+                        "Vanilla Ice Cream (Made with Milk)"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Dahi Puri (8 Pcs)",
+                    "snacks_side": "Onions",
+                    "snacks_beverages": [
+                        "Masala Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Red Lentil Dal",
+                        "Rasam",
+                        "Ragi Idly, Groundnut Chutney",
+                        "Dondakaya Fry",
+                        "Vegetable Kurma Gravy",
+                        "Thick Curd",
+                        "Papaya Cut Fruit",
+                        "Tomato Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "17": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Carrot Idly ",
+                        "Bhature - 2 Pcs Big ",
+                        "Groundnut Chutney",
+                        "Chole Curry",
+                        "Brown Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Egg Bhurji ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Beetroot & Cucumber Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Palak Dal",
+                        "Sambar",
+                        "Tomato Rice",
+                        "Pesara Punugulu Curry (Pakka Andhra Style)",
+                        "Drumstick Tomato Masala",
+                        "Rava Vadiyalu",
+                        "Butter Milk",
+                        "Sorakaya Perugu Chutney, Ghee + Podi",
+                        "Jilebi"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Dry Maggi",
+                    "snacks_side": "Tomato Sauce",
+                    "snacks_beverages": [
+                        "Masala Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Onions & Lemon Salad",
+                        "Methi Roti",
+                        "White Rice",
+                        "Pesara Pappu",
+                        "Tomato Rasam",
+                        "Bhagara Rice",
+                        "Telangana Chicken Curry (Non-Veg)",
+                        "Achari Paneer (Veg)",
+                        "Ladies Finger Boiled Fry",
+                        "Thick Curd",
+                        "Mixed Fruit Salad",
+                        "Gongura Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "18": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Multi Grain Dosa (2 Pcs Thin)",
+                        "Pav Bhaji",
+                        "Coconut Chutney",
+                        "Mint Chutney",
+                        "White Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Scrambled Egg ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Carrot & Cucumber Salad",
+                        "Roti",
+                        "White Rice",
+                        "Amaranthus Dal",
+                        "Beetroot Tomato Rasam",
+                        "Bisbele Bath",
+                        "Kakarakaya (Bitter Gourd) Fry",
+                        "Rajma Masala",
+                        "Potato Chips",
+                        "Dahi Vada",
+                        "Dosakaya Tomato Chutney"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Aloo Samosa 1 Big Pc",
+                    "snacks_side": "Tomato Sauce",
+                    "snacks_beverages": [
+                        "Ginger Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Dal Makhani",
+                        "Sambar",
+                        "Mushroom Biryani",
+                        "Snake Gourd Poriyal",
+                        "Aloo Mutter Curry",
+                        "Thick Curd",
+                        "Guava Fruit",
+                        "Tomato Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "19": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Methu Vada (Big size 3pcs, if not 4pcs)",
+                        "Vegetable Dalia",
+                        "Sambar",
+                        "Coconut Chutney",
+                        "Brown Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Masala Onion Omlet ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Onions & Lemon Salad",
+                        "Palak Roti",
+                        "White Rice",
+                        "Gongura (Sorrel Leaves) Dal",
+                        "Sambar",
+                        "Vegetable Dum Pulav",
+                        "Masala Fish Fry",
+                        "Kaju Tomato Paneer Boiled Fry",
+                        "Black Chana Masala",
+                        "Trinagle Fryums",
+                        "Butter Milk",
+                        "Coriander + Tomato Chutney",
+                        "Gulab Jamun"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Corn Vada",
+                    "snacks_side": "Onion Tomato Chutney",
+                    "snacks_beverages": [
+                        "Masala Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Tomato Dal",
+                        "Rasam",
+                        "Sooji Upma, Coconut Chutney",
+                        "Carrot Beans Poriyal",
+                        "Soya Chunks Masala",
+                        "Thick Curd",
+                        "Pineapple Cut Fruit",
+                        "Lemon Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "20": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Onion & Carrot Uttappam (2 pcs standard size)",
+                        "Poha",
+                        "Sambar",
+                        "Groundnut Chutney ",
+                        "White Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Boiled Egg ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Carrot & Cucumber Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Ridge Gourd Dal",
+                        "Sambar",
+                        "Pudina Rice",
+                        "Guthi Vankaya Curry",
+                        "Cluster Beans Masala",
+                        "Finger Fryums",
+                        "Lemon Water",
+                        "Potlakaya Perugu Chutney"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Poha Cutlet",
+                    "snacks_side": "Mint Sauce",
+                    "snacks_beverages": [
+                        "Ginger Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Roti",
+                        "White Rice",
+                        "Dal Maharani",
+                        "Beetroot Tomato Rasam",
+                        "Veg Manchuria",
+                        "Arbi Ka Gravy",
+                        "Thick Curd",
+                        "Banana",
+                        "Ginger Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "21": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Uggani + Mirchi Bajji",
+                        "Basin Chilla (2 Pcs thin) or Methi Roti",
+                        "Coconut Chutney",
+                        "Green Peas + Tomato Sabji",
+                        "Brown Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Boiled Egg ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Beetroot & Cucumber Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Dal Tadka",
+                        "Rasam",
+                        "Jeera Rice",
+                        "Raw Banana Fry",
+                        "Yam ka Gravy",
+                        "Papad",
+                        "Lassi",
+                        "Beerakaya Chutney",
+                        "Semiya Payasam"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Palak Pakoda",
+                    "snacks_side": "Mint Sauce",
+                    "snacks_beverages": [
+                        "Masala Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Onions & Lemon Salad",
+                        "Lacha Paratha",
+                        "White Rice",
+                        "Pesara Pappu",
+                        "Sambar",
+                        "Chicken Tikka Masala (Non-Veg)",
+                        "Kadai Paneer (Veg)",
+                        "Tomato Peas Capsicum Masala",
+                        "Thick Curd",
+                        "Grapes",
+                        "Mango Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "22": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Masala Ghee Roast Dosa",
+                        "Vada Pav",
+                        "Groundnut Chutney",
+                        "Mint Chutney",
+                        "Brown Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Scrambled Egg ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Carrot & Cucumber Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Mudda Pappu",
+                        "Beetroot Tomato Rasam",
+                        "Pulihora (Tamarind Rice)",
+                        "Majiga Pulusu",
+                        "Chole Soya Chunks Curry",
+                        "Papad",
+                        "Lemon Water",
+                        "Avakaya (Mango Pickle)"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Mysore Bonda 2 Pcs Std Size",
+                    "snacks_side": "Coconut Chutney",
+                    "snacks_beverages": [
+                        "Masala Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Roti",
+                        "White Rice",
+                        "Mango Dal",
+                        "Bachali Kura Pulusu (Malabar Spinach)",
+                        "Podi Onion Dosa -2 Pcs, Dal Chutney",
+                        "Cabbage Beans Poriyal",
+                        "Tomato Baingan Masala",
+                        "Thick Curd",
+                        "Muskmelon Cut Fruit",
+                        "Red Chilli Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "23": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Shavige Bath",
+                        "Aloo Paratha (2 Pcs Thin)",
+                        "Coconut Chutney",
+                        "Thick Curd, Mango Pickle",
+                        "White Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Egg Bhurji ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Beetroot & Cucumber Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Dal",
+                        "Sambar",
+                        "Chicken Dum Biryani/Vegetable Dum Biryani",
+                        "Chicken Thick Gravy / Hyderabadi Mirchi Ka Salan",
+                        "Onion Raitha",
+                        "Fryums",
+                        "Nannari Sharbath",
+                        "Fresh Gongura Chutney",
+                        "Vanilla Ice Cream (Not Frozen Dessert)"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Pani Puri (8 Pcs)",
+                    "snacks_side": "Onions",
+                    "snacks_beverages": [
+                        "Ginger Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Red Lentil Dal",
+                        "Rasam",
+                        "Ragi Idly, Groundnut Chutney",
+                        "Dondakaya Fry",
+                        "Vegetable Kurma Gravy",
+                        "Thick Curd",
+                        "Papaya Cut Fruit",
+                        "Tomato Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "24": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Vegetable Rava Idly (Bangalore Style)",
+                        "Poori - 3 Pcs Big",
+                        "Groundnut Chutney",
+                        "Chole Curry",
+                        "White Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Scrambled Egg",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Beetroot & Cucumber Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Palak Dal",
+                        "Sambar",
+                        "Tomato Rice",
+                        "Potato Fry (Andha Style)",
+                        "Drumstick Tomato Masala",
+                        "Rava Vadiyalu",
+                        "Butter Milk",
+                        "Sorakaya Perugu Chutney, Ghee + Podi",
+                        "Sweet Boondi"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Sweet Corn Masala",
+                    "snacks_side": "Tomato/Mint Sauce",
+                    "snacks_beverages": [
+                        "Ginger Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Onions & Lemon Salad",
+                        "Methi Roti",
+                        "White Rice",
+                        "Pesara Pappu",
+                        "Tomato Rasam",
+                        "Bhagara Rice",
+                        "Chettinad Chicken Curry (Non-Veg)",
+                        "Paneer Pepper Fry(Veg)",
+                        "Bhindi Masala",
+                        "Thick Curd",
+                        "Mixed Fruit Salad",
+                        "Gongura Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "25": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Onion Dosa - 2 Pcs Std Size",
+                        "Pav Bhaji",
+                        "Coconut Chutney",
+                        "Mint Chutney",
+                        "Brown Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Boiled Egg ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Carrot & Cucumber Salad",
+                        "Roti",
+                        "White Rice",
+                        "Amaranthus Dal",
+                        "Beetroot Tomato Rasam",
+                        "Bisbele Bath",
+                        "Kakarakaya (Bitter Gourd) Fry",
+                        "Rajma Masala",
+                        "Potato Chips",
+                        "Dahi Vada",
+                        "Dosakaya Tomato Chutney"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Kachori 1 Big Pc",
+                    "snacks_side": "Tomato Sauce",
+                    "snacks_beverages": [
+                        "Masala Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Dal Makhani",
+                        "Sambar",
+                        "Mushroom Biryani",
+                        "Snake Gourd Poriyal",
+                        "Aloo Mutter Curry",
+                        "Thick Curd",
+                        "Guava Fruit",
+                        "Tomato Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "26": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Onion Rava Bonda (Big size 3pcs, if not 4pcs)",
+                        "Vegetable Moon Dal Kitchidi",
+                        "Groundnut Chutney + Sambar",
+                        "Mango Pickle",
+                        "White Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Masala Onion Omlet ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Onions & Lemon Salad",
+                        "Palak Roti",
+                        "White Rice",
+                        "Dal",
+                        "Pachi Pulusu",
+                        "Special Rice",
+                        "Boiled Stir Fry Chicken Masala (Dry)",
+                        "Boiled Stir Fry Paneer Masala (Dry)",
+                        "Vegetable Jalfrezi",
+                        "Chips/Fryums/Papad",
+                        "Butter Milk/Lassi/Lemon Water",
+                        "Fresh Vegetable Chutney",
+                        "Badusha"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Vada Pav 2 Pcs",
+                    "snacks_side": "Mint Sauce",
+                    "snacks_beverages": [
+                        "Ginger Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Tomato Dal",
+                        "Rasam",
+                        "Broken Wheat Rava Upma, Coconut Chutney",
+                        "Carrot Beans Poriyal",
+                        "Arbi Ka Gravy",
+                        "Thick Curd",
+                        "Pineapple Cut Fruit",
+                        "Lemon Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "27": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Mix Veg Uttappam (2 pcs standard size)",
+                        "Poha",
+                        "Sambar",
+                        "Coconut Chutney",
+                        "Brown Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Egg Poach ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Carrot & Cucumber Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Ridge Gourd Dal",
+                        "Sambar",
+                        "Pudina Rice",
+                        "Guthi Vankaya Curry",
+                        "Kala Chana Masala",
+                        "Finger Fryums",
+                        "Lemon Water",
+                        "Potlakaya Perugu Chutney"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Sambar Vada",
+                    "snacks_side": "Masala Tea/Coffee/Milk",
+                    "snacks_beverages": []
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Roti",
+                        "White Rice",
+                        "Dal Fry",
+                        "Beetroot Tomato Rasam",
+                        "Gobhi Manchuria",
+                        "Rajma Masala",
+                        "Thick Curd",
+                        "Banana",
+                        "Ginger Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "28": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Uggani + Mirchi Bajji",
+                        "Basin Chilla (2 Pcs thin)",
+                        "Coconut Chutney",
+                        "Tomato Chutney",
+                        "White Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Boiled Egg ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Beetroot & Cucumber Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Dal Tadka",
+                        "Rasam",
+                        "Jeera Rice",
+                        "Raw Banana Fry",
+                        "Lobia Masala (Cowpeas in Onion Tomato Gravy)",
+                        "Papad",
+                        "Lassi",
+                        "Beerakaya Chutney",
+                        "Poornalu "
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Onion Soft Pakoda",
+                    "snacks_side": "Tomato Chutney",
+                    "snacks_beverages": [
+                        "Ginger Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Onions & Lemon Salad",
+                        "Missi Roti",
+                        "White Rice",
+                        "Dal",
+                        "Sambar",
+                        "Dhaba Style Chicken Curry (Non-Veg)",
+                        "Paneer Butter Masala (Veg)",
+                        "Vegetable Kolhapuri",
+                        "Thick Curd",
+                        "Grapes",
+                        "Fresh Vegetable Chutney/Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "29": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Masala Ghee Roast Dosa",
+                        "Vada Pav",
+                        "Groundnut Chutney",
+                        "Mint Chutney",
+                        "White Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Scrambled Egg",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Carrot & Cucumber Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Mudda Pappu",
+                        "Beetroot Tomato Rasam",
+                        "Pulihora (Tamarind Rice)",
+                        "Majiga Pulusu",
+                        "Chole Soya Chunks Curry",
+                        "Papad",
+                        "Lemon Water",
+                        "Avakaya (Mango Pickle)"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Punugulu 10 Pcs Std Size",
+                    "snacks_side": "Groundnut/Coconut Chutney",
+                    "snacks_beverages": [
+                        "Ginger Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Roti",
+                        "White Rice",
+                        "Mango Dal",
+                        "Bachali Kura Pulusu (Malabar Spinach)",
+                        "Adai Dosa -2 Pcs, Tomato Onion Chutney",
+                        "Cabbage Beans Poriyal",
+                        "Tomato Baingan Masala",
+                        "Thick Curd",
+                        "Muskmelon Cut Fruit",
+                        "Red Chilli Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "30": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Shavige Bath",
+                        "Paneer Paratha - 2 Pcs Thin",
+                        "Coconut Chutney",
+                        "Thick Curd, Mango Pickle",
+                        "Brown Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Egg Bhurji ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Beetroot & Cucumber Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Dal",
+                        "Sambar",
+                        "Chicken Dum Biryani/Vegetable Dum Biryani",
+                        "Chicken Thick Gravy / Hyderabadi Mirchi Ka Salan",
+                        "Onion Raitha",
+                        "Fryums",
+                        "Nannari Sharbath",
+                        "Fresh Gongura Chutney",
+                        "Vanilla Ice Cream (Made with Milk)"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Dahi Puri (8 Pcs)",
+                    "snacks_side": "Onions",
+                    "snacks_beverages": [
+                        "Masala Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Beetroot & Carrot Salad",
+                        "Pulka",
+                        "White Rice",
+                        "Red Lentil Dal",
+                        "Rasam",
+                        "Ragi Idly, Groundnut Chutney",
+                        "Dondakaya Fry",
+                        "Vegetable Kurma Gravy",
+                        "Thick Curd",
+                        "Papaya Cut Fruit",
+                        "Tomato Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ],
+        "31": [
+            {
+                "breakfast": {
+                    "breakfast_main": [
+                        "Carrot Idly ",
+                        "Bhature - 2 Pcs Big ",
+                        "Groundnut Chutney",
+                        "Chole Curry",
+                        "Brown Bread+Butter+Jam",
+                        "Sprouts (1 small cup)"
+                    ],
+                    "breakfast_side": "Egg Bhurji ",
+                    "breakfast_beverages": [
+                        "Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "lunch": {
+                    "lunch_main": [
+                        "Beetroot & Cucumber Salad",
+                        "Chapathi",
+                        "White Rice",
+                        "Palak Dal",
+                        "Sambar",
+                        "Tomato Rice",
+                        "Pesara Punugulu Curry (Pakka Andhra Style)",
+                        "Drumstick Tomato Masala",
+                        "Rava Vadiyalu",
+                        "Butter Milk",
+                        "Sorakaya Perugu Chutney, Ghee + Podi",
+                        "Jilebi"
+                    ]
+                },
+                "snacks": {
+                    "snacks_main": "Dry Maggi",
+                    "snacks_side": "Tomato Sauce",
+                    "snacks_beverages": [
+                        "Masala Tea",
+                        "Coffee",
+                        "Milk"
+                    ]
+                },
+                "dinner": {
+                    "dinner_main": [
+                        "Onions & Lemon Salad",
+                        "Methi Roti",
+                        "White Rice",
+                        "Pesara Pappu",
+                        "Tomato Rasam",
+                        "Bhagara Rice",
+                        "Telangana Chicken Curry (Non-Veg)",
+                        "Achari Paneer (Veg)",
+                        "Ladies Finger Boiled Fry",
+                        "Thick Curd",
+                        "Mixed Fruit Salad",
+                        "Gongura Pickle"
+                    ],
+                    "dinner_beverages": "Milk + Cofee Powder"
+                }
+            }
+        ]
+    }
+}
