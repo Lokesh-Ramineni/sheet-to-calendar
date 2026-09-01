@@ -2,7 +2,7 @@ import time
 import pandas as pd
 import json
 import csv
-df=pd.read_excel("INPUT/VIT-AP_Final Mess Menu_August 2026.xlsx")
+df=pd.read_excel("INPUT/VIT-AP_Final Mess Menu_September 2026.xlsx")
 data=df.iloc[:]
 s=2
 n=15
@@ -14,8 +14,10 @@ food_data={
 start=time.time()
 while n<=184:
     data=df.iloc[s:n]
-
-    dates=data.iloc[0,0].replace("\n", " ").split(" ")
+    try:
+        dates=data.iloc[0,0].replace("\n", " ").split(" ")
+    except Exception as e:
+        print(f"Error occured: {e}")
 
     #BreakFast
     breakfast=data.iloc[:,1].replace("\n", " ")
