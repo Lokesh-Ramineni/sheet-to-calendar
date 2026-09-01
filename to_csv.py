@@ -11,7 +11,7 @@ except FileNotFoundError as e:
     
 
 
-start_date = datetime(2026, 8, 1)
+start_date = datetime(2026, 9, 1)
 meal_times = {
     'breakfast': ('07:15', '09:00'),
     'lunch': ('12:30', '14:00'),
@@ -53,7 +53,7 @@ if data is not None:
                 'All Day Event': 'False'
             })
 
-    with open('output/menu_calendar.csv', 'w', newline='', encoding='utf-8') as f:
+    with open('output/CSV/september_menu_calendar.csv', 'w', newline='', encoding='utf-8') as f:
         fieldnames = ['Subject', 'Start Date', 'Start Time', 'End Date',
                     'End Time', 'Description', 'Location', 'All Day Event']
         writer = csv.DictWriter(f, fieldnames=fieldnames)
