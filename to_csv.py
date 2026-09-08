@@ -13,10 +13,11 @@ except FileNotFoundError as e:
 
 start_date = datetime(2026, 9, 1)
 meal_times = {
-    'breakfast': ('07:15', '09:00'),
-    'lunch': ('12:30', '14:00'),
-    'snacks': ('16:45', '18:00'),
-    'dinner': ('19:30', '21:00')
+    'breakfast': ('07:00', '09:00'),
+    'lunch': ('12:30', '14:15'),
+    'snacks': ('16:30', '18:15'),
+    'dinner': ('19:15', '21:00'),
+    'special':('07:15','09:15')
 }
 
 
@@ -33,6 +34,7 @@ if data is not None:
                 continue
 
             items = []
+            day=day_data["day"]
             for key, value in day_data[meal_type].items():
                 if isinstance(value, list):
                     items.extend(value)
@@ -40,7 +42,10 @@ if data is not None:
                     items.append(value)
 
             items_text = ' | '.join(item.strip() for item in items if item.strip())
-            start_time, end_time = meal_times[meal_type]
+            if((day == "Mon" or day =="Sun") and meal_type=='breakfast'):
+                start_time, end_time = meal_times['special']
+            else:
+                start_time, end_time = meal_times[meal_type]
 
             rows.append({
                 'Subject': f'{meal_type.capitalize()} - Day {day_num}',
