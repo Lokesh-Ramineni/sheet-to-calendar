@@ -46,11 +46,16 @@ while n<=184:
     dinner_beverages=dinner_main[-1]
     dinner_main.pop(-1)
 
+    day=dates[0]
 
     for date in dates[1:]:
-        food_data["menu"][date.strip(",")] = []
-        food_data["menu"][date.strip(",")].append(
+        
+        date = int(date.strip(","))
+                
+        food_data["menu"][f'{date}'] = []
+        food_data["menu"][f'{date}'].append(
             {
+                "day":day,
                 "breakfast":{
                     "breakfast_main":breakfast_main,
                     "breakfast_side":breakfast_side,
@@ -87,6 +92,6 @@ with open("output/food.json",'w') as f:
 end=time.time()
 print(end-start)
 
-print("working")
+print("Saved Successfully")
 
 
