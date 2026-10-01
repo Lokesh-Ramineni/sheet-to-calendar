@@ -1,22 +1,41 @@
 import time
-import pandas as pd
 import json
-import csv
-df=pd.read_excel("INPUT/VIT-AP_Final Mess Menu_September 2026.xlsx")
+import pandas as pd
+
+from iCalendar import to_iCalendar
+from to_csv import convert_into_csv
+
+df=pd.read_excel("INPUT/VIT-AP_Final_Mess Menu_October 2026.xlsx")
 data=df.iloc[:]
-s=2
-n=15
-step=13
 
 food_data={
     "menu":{}
 }
+
+# Date check
+# for i in range(0, 190):
+#     if repr(df.iloc[i, 0]) !="nan":
+#         print(i, repr(df.iloc[i, 0]))
+date_rows = []
+
+#Date start
+for i, value in df.iloc[:, 0].items():
+    if isinstance(value, str) and "\n" in value:
+        date_rows.append(i)
+
+
 start=time.time()
-while n<=184:
+for index,s in enumerate(date_rows):
+    if index + 1 < len(date_rows):
+        n = date_rows[index + 1]
+    else:
+        n = len(df)
     data=df.iloc[s:n]
     try:
         dates=data.iloc[0,0].replace("\n", " ").split(" ")
     except Exception as e:
+        print("Value:", repr(data.iloc[0, 0]))
+        print("Type:", type(data.iloc[0, 0]))
         print(f"Error occured: {e}")
 
     #BreakFast
@@ -76,10 +95,6 @@ while n<=184:
             }
         )
 
-
-    s=n
-    n=n+step
-
 sorted_menu = dict(
     sorted(
         food_data["menu"].items(),
@@ -90,8 +105,10 @@ food_data["menu"] = sorted_menu
 with open("output/food.json",'w') as f:
     json.dump(food_data,f,indent=4)
 end=time.time()
-print(end-start)
+print(f'Time Taken: {(end-start):.4f} seconds')
 
-print("Saved Successfully")
+print("Menu Saved Successfully")
 
+convert_into_csv()
 
+to_iCalendar()
