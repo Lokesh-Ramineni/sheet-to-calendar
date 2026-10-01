@@ -1,13 +1,12 @@
 import csv
-from datetime import datetime
 from pathlib import Path
-
+from datetime import datetime
 
 # -----------------------------
 # FILES
 # -----------------------------
-input_file = "output/CSV/september_menu_calendar.csv"
-output_file = "output/iCalendar/VIT-AP_September_2026_Mess_Menu_IST.ics"
+input_file = "output/CSV/october_menu_calendar.csv"
+output_file = "output/iCalendar/VIT-AP_October_2026_Mess_Menu_IST.ics"
 
 def escape_ical(text):
     """
@@ -28,107 +27,107 @@ def escape_ical(text):
     )
 
 
-events = []
+def to_iCalendar():
+    events = []
+    with open(input_file, "r", encoding="utf-8-sig", newline="") as f:
 
-with open(input_file, "r", encoding="utf-8-sig", newline="") as f:
+        reader = csv.DictReader(f)
 
-    reader = csv.DictReader(f)
+        for row in reader:
 
-    for row in reader:
+            start_datetime = datetime.strptime(
+                f"{row['Start Date']} {row['Start Time']}",
+                "%Y-%m-%d %H:%M"
+            )
 
-        start_datetime = datetime.strptime(
-            f"{row['Start Date']} {row['Start Time']}",
-            "%Y-%m-%d %H:%M"
-        )
+            end_datetime = datetime.strptime(
+                f"{row['End Date']} {row['End Time']}",
+                "%Y-%m-%d %H:%M"
+            )
 
-        end_datetime = datetime.strptime(
-            f"{row['End Date']} {row['End Time']}",
-            "%Y-%m-%d %H:%M"
-        )
+            # Unique ID for Google Calendar
+            uid = (
+                f"{row['Subject'].replace(' ', '-')}"
+                f"-{row['Start Date']}"
+                f"@vit-ap-mess"
+            )
 
-        # Unique ID for Google Calendar
-        uid = (
-            f"{row['Subject'].replace(' ', '-')}"
-            f"-{row['Start Date']}"
-            f"@vit-ap-mess"
-        )
+            event = [
+                "BEGIN:VEVENT",
 
-        event = [
-            "BEGIN:VEVENT",
+                f"UID:{escape_ical(uid)}",
 
-            f"UID:{escape_ical(uid)}",
+                # Timezone is explicitly India
+                f"DTSTART;TZID=Asia/Kolkata:"
+                f"{start_datetime.strftime('%Y%m%dT%H%M%S')}",
 
-            # Timezone is explicitly India
-            f"DTSTART;TZID=Asia/Kolkata:"
-            f"{start_datetime.strftime('%Y%m%dT%H%M%S')}",
+                f"DTEND;TZID=Asia/Kolkata:"
+                f"{end_datetime.strftime('%Y%m%dT%H%M%S')}",
 
-            f"DTEND;TZID=Asia/Kolkata:"
-            f"{end_datetime.strftime('%Y%m%dT%H%M%S')}",
+                f"SUMMARY:{escape_ical(row['Subject'])}",
 
-            f"SUMMARY:{escape_ical(row['Subject'])}",
+                f"DESCRIPTION:{escape_ical(row['Description'])}",
 
-            f"DESCRIPTION:{escape_ical(row['Description'])}",
+                "STATUS:CONFIRMED",
 
-            "STATUS:CONFIRMED",
+                "END:VEVENT"
+            ]
 
-            "END:VEVENT"
-        ]
+            events.extend(event)
 
-        events.extend(event)
+    calendar = [
+        "BEGIN:VCALENDAR",
 
-calendar = [
-    "BEGIN:VCALENDAR",
+        "VERSION:2.0",
 
-    "VERSION:2.0",
+        "PRODID:-//VIT-AP//September 2026 Mess Menu//EN",
 
-    "PRODID:-//VIT-AP//September 2026 Mess Menu//EN",
+        "CALSCALE:GREGORIAN",
 
-    "CALSCALE:GREGORIAN",
+        "METHOD:PUBLISH",
 
-    "METHOD:PUBLISH",
+        "X-WR-CALNAME:VIT-AP Mess Menu - September 2026",
 
-    "X-WR-CALNAME:VIT-AP Mess Menu - September 2026",
+        "X-WR-TIMEZONE:Asia/Kolkata",
 
-    "X-WR-TIMEZONE:Asia/Kolkata",
+        "BEGIN:VTIMEZONE",
 
-    "BEGIN:VTIMEZONE",
+        "TZID:Asia/Kolkata",
 
-    "TZID:Asia/Kolkata",
+        "X-LIC-LOCATION:Asia/Kolkata",
 
-    "X-LIC-LOCATION:Asia/Kolkata",
+        "BEGIN:STANDARD",
 
-    "BEGIN:STANDARD",
+        "TZOFFSETFROM:+0530",
 
-    "TZOFFSETFROM:+0530",
+        "TZOFFSETTO:+0530",
 
-    "TZOFFSETTO:+0530",
+        "TZNAME:IST",
 
-    "TZNAME:IST",
+        "DTSTART:19700101T000000",
 
-    "DTSTART:19700101T000000",
+        "END:STANDARD",
 
-    "END:STANDARD",
+        "END:VTIMEZONE",
+    ]
 
-    "END:VTIMEZONE",
-]
-
-calendar.extend(events)
-
-
-calendar.append("END:VCALENDAR")
+    calendar.extend(events)
 
 
-Path(output_file).parent.mkdir(
-    parents=True,
-    exist_ok=True
-)
-
-with open(output_file, "w", encoding="utf-8", newline="") as f:
-
-    f.write("\r\n".join(calendar))
-    f.write("\r\n")
+    calendar.append("END:VCALENDAR")
 
 
-print("ICS file created successfully!")
-print(f"Output: {output_file}")
-print(f"Total events: {len(events) // 7}")
+    Path(output_file).parent.mkdir(
+        parents=True,
+        exist_ok=True
+    )
+
+    with open(output_file, "w", encoding="utf-8", newline="") as f:
+
+        f.write("\r\n".join(calendar))
+        f.write("\r\n")
+
+
+    print("ICS file created successfully!")
+    print(f"Output: {output_file}")
+    print(f"Total events: {len(events) // 7}")
