@@ -11,7 +11,7 @@ except FileNotFoundError as e:
     
 
 
-start_date = datetime(2026, 9, 1)
+start_date = datetime(2026, 10, 1)
 meal_times = {
     'breakfast': ('07:00', '09:00'),
     'lunch': ('12:30', '14:15'),
