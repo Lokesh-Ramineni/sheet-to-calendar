@@ -80,13 +80,13 @@ def to_iCalendar():
 
         "VERSION:2.0",
 
-        "PRODID:-//VIT-AP//September 2026 Mess Menu//EN",
+        "PRODID:-//VIT-AP//October 2026 Mess Menu//EN",
 
         "CALSCALE:GREGORIAN",
 
         "METHOD:PUBLISH",
 
-        "X-WR-CALNAME:VIT-AP Mess Menu - September 2026",
+        "X-WR-CALNAME:VIT-AP Mess Menu - October 2026",
 
         "X-WR-TIMEZONE:Asia/Kolkata",
 
