@@ -5,7 +5,8 @@ import pandas as pd
 from iCalendar import to_iCalendar
 from to_csv import convert_into_csv
 
-df=pd.read_excel("INPUT/VIT-AP_Final_Mess Menu_October 2026.xlsx")
+df=pd.read_excel("INPUT/VIT-AP_Final Mess Menu_November 2026.xlsx")
+
 data=df.iloc[:]
 
 food_data={
@@ -70,7 +71,6 @@ for index,s in enumerate(date_rows):
     for date in dates[1:]:
         
         date = int(date.strip(","))
-                
         food_data["menu"][f'{date}'] = []
         food_data["menu"][f'{date}'].append(
             {
