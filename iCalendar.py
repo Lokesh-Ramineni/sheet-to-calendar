@@ -5,8 +5,8 @@ from datetime import datetime
 # -----------------------------
 # FILES
 # -----------------------------
-input_file = "output/CSV/october_menu_calendar.csv"
-output_file = "output/iCalendar/VIT-AP_October_2026_Mess_Menu_IST.ics"
+input_file = "output/CSV/november_menu_calendar.csv"
+output_file = "output/iCalendar/VIT-AP_November_2026_Mess_Menu_IST.ics"
 
 def escape_ical(text):
     """
@@ -80,13 +80,13 @@ def to_iCalendar():
 
         "VERSION:2.0",
 
-        "PRODID:-//VIT-AP//October 2026 Mess Menu//EN",
+        "PRODID:-//VIT-AP//November 2026 Mess Menu//EN",
 
         "CALSCALE:GREGORIAN",
 
         "METHOD:PUBLISH",
 
-        "X-WR-CALNAME:VIT-AP Mess Menu - October 2026",
+        "X-WR-CALNAME:VIT-AP Mess Menu - November 2026",
 
         "X-WR-TIMEZONE:Asia/Kolkata",
 
