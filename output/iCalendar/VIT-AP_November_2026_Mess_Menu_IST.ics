@@ -1,0 +1,946 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VIT-AP//November 2026 Mess Menu//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VIT-AP Mess Menu - November 2026
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:Breakfast---Day-1-2026-11-01@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261101T071500
+DTEND;TZID=Asia/Kolkata:20261101T091500
+SUMMARY:Breakfast - Day 1
+DESCRIPTION:Shavige Bath | Paneer Paratha - 2 Pcs Thin | Peanut Chutney | Thick Curd\, Mango Pickle | Brown Bread+butter+Jam | Sprouts (1 small cup) | Egg Bhurji (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-1-2026-11-01@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261101T123000
+DTEND;TZID=Asia/Kolkata:20261101T141500
+SUMMARY:Lunch - Day 1
+DESCRIPTION:Onions & Lemon Salad | Chapathi | White Rice | Dal Fry | Chicken Dum Biryani/Paneer Dum Biryani | Chicken Thick Gravy / Hyderabadi Mirchi Ka Salan | Tomato Rasam | Onion Raitha | Triangular Fryums | Mint Lemon Jal Jeera Drink (200 ml) | Fresh Gongura Chutney | Basundhi (60 ml)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-1-2026-11-01@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261101T163000
+DTEND;TZID=Asia/Kolkata:20261101T181500
+SUMMARY:Snacks - Day 1
+DESCRIPTION:Cup Cake (Egg Less) 2 Pcs (1)\, Dahi Puri (8 Pcs)\, Onions (15\, 29) | Masala Tea/Coffee/Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-1-2026-11-01@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261101T191500
+DTEND;TZID=Asia/Kolkata:20261101T210000
+SUMMARY:Dinner - Day 1
+DESCRIPTION:Beetroot & Carrot Salad | Pulka | White Rice | Pesara Pappu | Radish Sambar | Ragi Idly\, Groundnut Chutney | Dondakaya Stir Fry | Vegetable Kurma Gravy | Thick Curd | Papaya Cut Fruit | Tomato Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-2-2026-11-02@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261102T071500
+DTEND;TZID=Asia/Kolkata:20261102T091500
+SUMMARY:Breakfast - Day 2
+DESCRIPTION:Ghee + Veg Pongal | Bhature - 2 Pcs Big | Groundnut Chutney\, Sambar | Chole Curry | White Bread+Butter+Jam | Sprouts (1 small cup) | Boiled Egg (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-2-2026-11-02@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261102T123000
+DTEND;TZID=Asia/Kolkata:20261102T141500
+SUMMARY:Lunch - Day 2
+DESCRIPTION:Boiled Chana Salad with Onion & Tomato | Chapathi | White Rice | Palak Dal | Brinjal Sambar | Tomato Rice | Pesara Punugulu Curry (Pakka Andhra Style) | Capsicum Tomato Masala | Fryums | Butter Milk | Sorakaya Perugu Chutney | Jilebi | Ghee + Podi
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-2-2026-11-02@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261102T163000
+DTEND;TZID=Asia/Kolkata:20261102T181500
+SUMMARY:Snacks - Day 2
+DESCRIPTION:Dry Maggi (Non-Sticky) | Tomato Sauce | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-2-2026-11-02@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261102T191500
+DTEND;TZID=Asia/Kolkata:20261102T210000
+SUMMARY:Dinner - Day 2
+DESCRIPTION:Onions & Lemon Salad | Roti | White Rice | Pesara Pappu | Andhra Charu | Bhagara Rice | Hyderabadi Chicken Curry (Non-Veg) | Paneer Butter Masala (Veg) | Ladies Finger Boiled Fry | Thick Curd | Water Melon Cut Fruit | Radish Fresh Chutney | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-3-2026-11-03@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261103T070000
+DTEND;TZID=Asia/Kolkata:20261103T090000
+SUMMARY:Breakfast - Day 3
+DESCRIPTION:Onion Dosa (3)\, Masala Dosa (17) - 2 Pcs Std Size | Vada Pav | Coconut Chutney | Mint Chutney | Brown Bread+Butter+Jam | Ragi Malt with Salt (1 Medium Glass) | Boiled Egg (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-3-2026-11-03@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261103T123000
+DTEND;TZID=Asia/Kolkata:20261103T141500
+SUMMARY:Lunch - Day 3
+DESCRIPTION:Carrot & Cucumber Salad | Roti | White Rice | Dosakaya Pappu | Beetroot Tomato Rasam | Bisbele Bath | Kakarakaya (Bitter Gourd) Fry | Rajma Masala | Potato Chips | Dahi Vada | Dosakaya Tomato Chutney | Ghee + Podi
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-3-2026-11-03@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261103T163000
+DTEND;TZID=Asia/Kolkata:20261103T181500
+SUMMARY:Snacks - Day 3
+DESCRIPTION:Aloo Samosa 1 Big Pc | Tomato Sauce\, Salt Mirchi | Ginger Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-3-2026-11-03@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261103T191500
+DTEND;TZID=Asia/Kolkata:20261103T210000
+SUMMARY:Dinner - Day 3
+DESCRIPTION:Beetroot & Carrot Salad | Pulka | White Rice | Dal Makhani | Kadamba Sambar | Mushroom Biryani | Cluster Beans Coconut Fry | Aloo Mutter Curry | Thick Curd | Banana Fruit | Ginger Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-4-2026-11-04@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261104T070000
+DTEND;TZID=Asia/Kolkata:20261104T090000
+SUMMARY:Breakfast - Day 4
+DESCRIPTION:Pesarattu Thin 2 Pcs Std Size | Tomato Suji Upma | Coconut Chutney | Ginger Chutney | White Bread+Butter+Jam | Sprouts (1 small cup) | Masala Onion Omlet  (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-4-2026-11-04@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261104T123000
+DTEND;TZID=Asia/Kolkata:20261104T141500
+SUMMARY:Lunch - Day 4
+DESCRIPTION:Onions & Lemon Salad | Palak Roti | White Rice | Amaranthus Dal | Pachi Pulusu | Bhagara Rice | Kadai Chicken | Kadai Paneer | Vegetable Jalfrezi | Papad | Butter Milk | Fresh Vegetable Chutney | Semiya Sabhudhana Kheer (4)\, Double ka Meeta (18)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-4-2026-11-04@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261104T163000
+DTEND;TZID=Asia/Kolkata:20261104T181500
+SUMMARY:Snacks - Day 4
+DESCRIPTION:Bhelpuri | Ginger Tea/Coffee/Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-4-2026-11-04@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261104T191500
+DTEND;TZID=Asia/Kolkata:20261104T210000
+SUMMARY:Dinner - Day 4
+DESCRIPTION:Beetroot & Carrot Salad | Chapathi | White Rice | Tomato Dal | Garlic Rasam | Broken Wheat Rava Upma\, Coconut Chutney | Bottle Guard Chana Dal Fry | Aloo Mutter Curry | Thick Curd | Pine Apple Cut Fruit | Lemon Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-5-2026-11-05@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261105T070000
+DTEND;TZID=Asia/Kolkata:20261105T090000
+SUMMARY:Breakfast - Day 5
+DESCRIPTION:Medu Vada (Big size 3pcs\, if not 4pcs) | Pav Bhaji | Sambar | Coconut Chutney | Brown Bread+Butter+Jam | Sprouts (1 small cup) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-5-2026-11-05@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261105T123000
+DTEND;TZID=Asia/Kolkata:20261105T141500
+SUMMARY:Lunch - Day 5
+DESCRIPTION:Carrot & Cucumber Salad | Pulka | White Rice | Ridge Gourd Dal | Drumstick Brinjal Sambar | Pudina Rice | Guthi Vankaya Curry | Kala Chana Masala | Finger Fryums | Lemon Water + Sabja Seeds | Potlakaya Perugu Chutney | Ghee + Podi
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-5-2026-11-05@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261105T163000
+DTEND;TZID=Asia/Kolkata:20261105T181500
+SUMMARY:Snacks - Day 5
+DESCRIPTION:Mysore Bonda 2 Pcs Std Size (Less Oily) | Coconut Chutney | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-5-2026-11-05@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261105T191500
+DTEND;TZID=Asia/Kolkata:20261105T210000
+SUMMARY:Dinner - Day 5
+DESCRIPTION:Beetroot & Carrot Salad | Roti | White Rice | Dal Fry | Beetroot Tomato Rasam | Veg Manchurian\, Noodles\, Tomato Sauce | Dhaba Style Egg Curry (Non-Veg) | Rajma Masala | Thick Curd | Green Grapes | Gongura Fresh Chutney | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-6-2026-11-06@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261106T070000
+DTEND;TZID=Asia/Kolkata:20261106T090000
+SUMMARY:Breakfast - Day 6
+DESCRIPTION:Poori (3 pcs standard size) | Rice Rava Upma (Dry) | Aloo Basin Chutney | Dal Chutney | Brown Bread+Butter+Jam | Ragi Malt with Salt (1 Medium Glass) | Boiled Egg (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-6-2026-11-06@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261106T123000
+DTEND;TZID=Asia/Kolkata:20261106T141500
+SUMMARY:Lunch - Day 6
+DESCRIPTION:Beetroot & Cucumber Salad | Chapathi | White Rice | Dal Tadka | Andhra Charu | Jeera Rice | Raw Banana Fry | Turnip Spinach Curry (Punjabi Style) | Papad | Lassi | Beerakaya Chutney | Carrot Halwa
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-6-2026-11-06@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261106T163000
+DTEND;TZID=Asia/Kolkata:20261106T181500
+SUMMARY:Snacks - Day 6
+DESCRIPTION:Sambar Vada 2 Pcs (Separate) | Masala Tea/Coffee/Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-6-2026-11-06@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261106T191500
+DTEND;TZID=Asia/Kolkata:20261106T210000
+SUMMARY:Dinner - Day 6
+DESCRIPTION:Onions & Lemon Salad | Beetroot Chapathi | White Rice | Dal | Mix Veg Sambar | Chicken Tikka Masala (Non-Veg) | Paneer Lababdar (Veg) | Amritsari Chole | Thick Curd | Muskmelon Cut Fruit | Amla Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-7-2026-11-07@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261107T070000
+DTEND;TZID=Asia/Kolkata:20261107T090000
+SUMMARY:Breakfast - Day 7
+DESCRIPTION:Uggani + Mirchi Bajji | Moong Dal Palak Tepla (Hand Made) 2 Pcs | Groundnut Chutney | Onion Tomato Chutney | Brown Bread+Butter+Jam | Ragi Malt with Salt (1 Medium Glass) | Boiled Egg (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-7-2026-11-07@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261107T123000
+DTEND;TZID=Asia/Kolkata:20261107T141500
+SUMMARY:Lunch - Day 7
+DESCRIPTION:Carrot & Cucumber Salad | Pulka | White Rice | Mudda Pappu | Pachi Pulusu | Pulihora (Tamarind Rice) | Cauli Flower Fry | Chole Curry | Papad | Majjiga Pulusu | Avakaya (Mango Pickle) | Ghee + Podi
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-7-2026-11-07@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261107T163000
+DTEND;TZID=Asia/Kolkata:20261107T181500
+SUMMARY:Snacks - Day 7
+DESCRIPTION:Vada Pav 2 Pcs | Mint Sauce | Cold Badam Milk (1 Medium Glass)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-7-2026-11-07@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261107T191500
+DTEND;TZID=Asia/Kolkata:20261107T210000
+SUMMARY:Dinner - Day 7
+DESCRIPTION:Beetroot & Carrot Salad | Roti | White Rice | Dal Maharani | Drumstick Sambar | Ghee + Podi + Idly\, Coconut Chutney | Tomato Baingan Fry | Thick Curd | Banana | Red Chilli Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-8-2026-11-08@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261108T071500
+DTEND;TZID=Asia/Kolkata:20261108T091500
+SUMMARY:Breakfast - Day 8
+DESCRIPTION:Shavige Bath | Aloo Paratha (2 Pcs Thin) | Mint Coriander Chutney | Thick Curd\, Mango Pickle | White Bread+Butter+Jam | Sprouts (1 small cup) | Egg Bhurji (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-8-2026-11-08@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261108T123000
+DTEND;TZID=Asia/Kolkata:20261108T141500
+SUMMARY:Lunch - Day 8
+DESCRIPTION:Onions & Lemon Salad | Chapathi | White Rice | Dal Makhani | Chicken Fry Piece Biryani/Paneer Fry Piece Biryani | Chicken Thick Gravy / Hyderabadi Mirchi Ka Salan | Onion Raitha | Tomato Rasam | Fryums | Mint Lemon Jal Jeera Drink (200 ml) | Fresh Gongura Chutney | Vanilla Ice Cream  (Not Frozen Dessert)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-8-2026-11-08@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261108T163000
+DTEND;TZID=Asia/Kolkata:20261108T181500
+SUMMARY:Snacks - Day 8
+DESCRIPTION:Dahi Papdi Chat | Onions | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-8-2026-11-08@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261108T191500
+DTEND;TZID=Asia/Kolkata:20261108T210000
+SUMMARY:Dinner - Day 8
+DESCRIPTION:Beetroot & Carrot Salad | Pulka | White Rice | Pesara Pappu | Radish Sambar | Karam Dosa (2 Pcs Thin)\, Coconut Chutney | Dondakaya Fry | Drumstick Tomato Curry | Thick Curd | Papaya Cut Fruit | Tomato Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-9-2026-11-09@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261109T071500
+DTEND;TZID=Asia/Kolkata:20261109T091500
+SUMMARY:Breakfast - Day 9
+DESCRIPTION:Vegetable Moong Dal Kitchidi | Bhature - 3 Pcs Big | Peanut Chutney\, Sambar | Chole Curry | Brown Bread+Butter+Jam | Sprouts (1 small cup) | Masala Omlet (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-9-2026-11-09@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261109T123000
+DTEND;TZID=Asia/Kolkata:20261109T141500
+SUMMARY:Lunch - Day 9
+DESCRIPTION:Boiled Chana Salad with Onion & Tomato | Chapathi | White Rice | Palak Dal | Brinjal Sambar | Ghee Rice | French Beans Potato Fry | Ghobi Masala | Fryums | Butter Milk | Sorakaya Perugu Chutney\, Ghee + Podi | Semiya Sabhudhana Kheer | Ghee + Podi
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-9-2026-11-09@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261109T163000
+DTEND;TZID=Asia/Kolkata:20261109T181500
+SUMMARY:Snacks - Day 9
+DESCRIPTION:Mexican Sweet Corn Salad | Lemon Sauce | Masala Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-9-2026-11-09@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261109T191500
+DTEND;TZID=Asia/Kolkata:20261109T210000
+SUMMARY:Dinner - Day 9
+DESCRIPTION:Onions & Lemon Salad | Methi Roti | White Rice | Dal Tadka | Jeera-Milagu Rasam | Bhagara Rice | Chettinad Chicken Curry (Non-Veg) | Paneer Green Peas Masala (Veg) | Snake Gourd Poriyal | Thick Curd | Water Melon Cut Fruit | Gongura Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-10-2026-11-10@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261110T070000
+DTEND;TZID=Asia/Kolkata:20261110T090000
+SUMMARY:Breakfast - Day 10
+DESCRIPTION:Ghee Podi Dosa (2 Pcs Thin) | Pav Bhaji | Coconut Chutney\, Sambar | Mint Chutney | White Bread+Butter+Jam | Ragi Malt with Salt (1 Medium Glass) | Scrambled Egg (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-10-2026-11-10@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261110T123000
+DTEND;TZID=Asia/Kolkata:20261110T141500
+SUMMARY:Lunch - Day 10
+DESCRIPTION:Carrot & Cucumber Salad | Roti | White Rice | Amaranthus Dal | Beetroot Tomato Rasam | Bisbele Bath | Kakarakaya (Bitter Gourd) Fry | Rajma Masala | Kara Boondi | Dahi Vada | Dosakaya Tomato Chutney | Ghee + Podi
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-10-2026-11-10@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261110T163000
+DTEND;TZID=Asia/Kolkata:20261110T181500
+SUMMARY:Snacks - Day 10
+DESCRIPTION:Aloo Samosa 1 Big Pc | Tomato Sauce\, Salt Mirchi | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-10-2026-11-10@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261110T191500
+DTEND;TZID=Asia/Kolkata:20261110T210000
+SUMMARY:Dinner - Day 10
+DESCRIPTION:Beetroot & Carrot Salad | Pulka | White Rice | Dal Makhani | Kadamba Sambar | Mushroom Biryani | French Beans Coconut Poriyal | Aloo Mutter Curry | Thick Curd | Banana | Tomato Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-11-2026-11-11@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261111T070000
+DTEND;TZID=Asia/Kolkata:20261111T090000
+SUMMARY:Breakfast - Day 11
+DESCRIPTION:Methu Vada (Big size 3pcs\, if not 4pcs) | Mix Veg Suji Bun 2 Pcs | Sambar | Coconut Chutney | Brown Bread+Butter+Jam | Sprouts (1 small cup) | Boiled Egg (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-11-2026-11-11@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261111T123000
+DTEND;TZID=Asia/Kolkata:20261111T141500
+SUMMARY:Lunch - Day 11
+DESCRIPTION:Onions & Lemon Salad | Palak Roti | White Rice | Gongura (Sorrel Leaves) Dal | Rasam | Vegetable Dum Pulav | Andhra Chicken Fry | Kaju Tomato Paneer Fry | Red Beans Curry | Trinagle Fryums | Butter Milk | Coriander + Tomato Chutney | Gulab Jamun
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-11-2026-11-11@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261111T163000
+DTEND;TZID=Asia/Kolkata:20261111T181500
+SUMMARY:Snacks - Day 11
+DESCRIPTION:Bandi Style Ragda Chat | Onion Small pieces | Ginger Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-11-2026-11-11@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261111T191500
+DTEND;TZID=Asia/Kolkata:20261111T210000
+SUMMARY:Dinner - Day 11
+DESCRIPTION:Beetroot & Carrot Salad | Chapathi | White Rice | Tomato Dal | Drumstick Sambar | Sooji Upma\, Coconut Chutney | Bottle Guard Tomato Stir Fry | Soya Chunks Masala | Thick Curd | Green Grapes | Lemon Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-12-2026-11-12@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261112T070000
+DTEND;TZID=Asia/Kolkata:20261112T090000
+SUMMARY:Breakfast - Day 12
+DESCRIPTION:Methi Poori (3 Pcs standard size) | Lemon Sevai | Aloo Mutter Curry (12)\, Chickpea Masala (26) | Coconut Chutney | White Bread+Butter+Jam | Sprouts (1 small cup) | Masala Onion Omlet (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-12-2026-11-12@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261112T123000
+DTEND;TZID=Asia/Kolkata:20261112T141500
+SUMMARY:Lunch - Day 12
+DESCRIPTION:Carrot & Cucumber Salad | Pulka | White Rice | Sorrel Leaves Dal (Gongura Pappu) | Drumstick Brinjal Sambar | Pudina Rice | Guthi Vankaya Curry | Ridge Gourd Fry | Finger Fryums | Lemon Water + Sabja Seeds | Potlakaya Perugu Chutney | Ghee + Podi
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-12-2026-11-12@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261112T163000
+DTEND;TZID=Asia/Kolkata:20261112T181500
+SUMMARY:Snacks - Day 12
+DESCRIPTION:Boiled Peanuts with Onion/Tomato(12 ) | Boiled Black Chana with Onion/Tomato (26) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-12-2026-11-12@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261112T191500
+DTEND;TZID=Asia/Kolkata:20261112T210000
+SUMMARY:Dinner - Day 12
+DESCRIPTION:Onions & Lemon Salad | Roti | White Rice | Dal Fry | Beetroot Tomato Rasam | Veg Manchuria\, Noodles\, Tomato Sauce | Black Channa Curry | Thick Curd | Banana | Gongura Fresh Chutney | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-13-2026-11-13@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261113T070000
+DTEND;TZID=Asia/Kolkata:20261113T090000
+SUMMARY:Breakfast - Day 13
+DESCRIPTION:Uggani + Mirchi Bajji | Vegetable Daliya Kitchidi | Coconut Chutney | Mango Pickle | Brown Bread+Butter+Jam | Sprouts (1 small cup) | Boiled Egg (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-13-2026-11-13@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261113T123000
+DTEND;TZID=Asia/Kolkata:20261113T141500
+SUMMARY:Lunch - Day 13
+DESCRIPTION:Beetroot & Cucumber Salad | Chapathi | White Rice | Dal Tadka | Rasam | Jeera Rice | Raw Banana Fry | Red Rajma Masala | Papad | Butter Milk | Beerakaya Chutney | Moong Dal Payasam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-13-2026-11-13@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261113T163000
+DTEND;TZID=Asia/Kolkata:20261113T181500
+SUMMARY:Snacks - Day 13
+DESCRIPTION:Aloo Bonda (Medium size 2 pc) | Coconut Chutney | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-13-2026-11-13@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261113T191500
+DTEND;TZID=Asia/Kolkata:20261113T210000
+SUMMARY:Dinner - Day 13
+DESCRIPTION:Onions & Lemon Salad | Lacha Paratha | White Rice | Pesara Pappu | Mix Veg Sambar | Garlic Chicken Curry (Non-Veg) | Paneer Tikka Masala (Veg) | Tomato Peas Capsicum Masala | Thick Curd | Muskmelon Cut Fruit | Mango Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-14-2026-11-14@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261114T070000
+DTEND;TZID=Asia/Kolkata:20261114T090000
+SUMMARY:Breakfast - Day 14
+DESCRIPTION:Mix Veg Utappam - 2 Pcs Std Size | Vegetable Poha | Peanut Chutney | Tomato Chutney | White Bread+Butter+Jam | Sprouts (1 small cup) | Boiled Egg (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-14-2026-11-14@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261114T123000
+DTEND;TZID=Asia/Kolkata:20261114T141500
+SUMMARY:Lunch - Day 14
+DESCRIPTION:Carrot & Cucumber Salad | Pulka | White Rice | Mudda Pappu | Pachi Pulusu | Pulihora (Tamarind Rice) | Radish Tomato Stir Fry | Chole Curry | Papad | Majiga Pulusu | Avakaya (Mango Pickle) | Ghee + Podi
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-14-2026-11-14@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261114T163000
+DTEND;TZID=Asia/Kolkata:20261114T181500
+SUMMARY:Snacks - Day 14
+DESCRIPTION:Punugulu 8 Pcs Medium Size | Groundnut/Coconut Chutney | Cold Badam Milk 150 ml
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-14-2026-11-14@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261114T191500
+DTEND;TZID=Asia/Kolkata:20261114T210000
+SUMMARY:Dinner - Day 14
+DESCRIPTION:Beetroot & Carrot Salad | Roti | White Rice | Dal Maharani | Bendakaya (Bhindi) Pulusu | Vegetable Fried Rice\, Gobhi Manchuria\, Tomato Sauce | Cabbage Beans Poriyal | Thick Curd | Fruit Custard with Custard Apple | Red Chilli Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-15-2026-11-15@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261115T071500
+DTEND;TZID=Asia/Kolkata:20261115T091500
+SUMMARY:Breakfast - Day 15
+DESCRIPTION:Shavige Bath | Paneer Paratha - 2 Pcs Thin | Peanut Chutney | Thick Curd\, Mango Pickle | Brown Bread+butter+Jam | Sprouts (1 small cup) | Egg Bhurji (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-15-2026-11-15@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261115T123000
+DTEND;TZID=Asia/Kolkata:20261115T141500
+SUMMARY:Lunch - Day 15
+DESCRIPTION:Onions & Lemon Salad | Chapathi | White Rice | Dal Fry | Chicken Dum Biryani/Paneer Dum Biryani | Chicken Thick Gravy / Hyderabadi Mirchi Ka Salan | Tomato Rasam | Onion Raitha | Triangular Fryums | Mint Lemon Jal Jeera Drink (200 ml) | Fresh Gongura Chutney | Basundhi (60 ml)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-15-2026-11-15@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261115T163000
+DTEND;TZID=Asia/Kolkata:20261115T181500
+SUMMARY:Snacks - Day 15
+DESCRIPTION:Cup Cake (Egg Less) 2 Pcs (1)\, Dahi Puri (8 Pcs)\, Onions (15\, 29) | Masala Tea/Coffee/Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-15-2026-11-15@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261115T191500
+DTEND;TZID=Asia/Kolkata:20261115T210000
+SUMMARY:Dinner - Day 15
+DESCRIPTION:Beetroot & Carrot Salad | Pulka | White Rice | Pesara Pappu | Radish Sambar | Ragi Idly\, Groundnut Chutney | Dondakaya Stir Fry | Vegetable Kurma Gravy | Thick Curd | Papaya Cut Fruit | Tomato Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-16-2026-11-16@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261116T071500
+DTEND;TZID=Asia/Kolkata:20261116T091500
+SUMMARY:Breakfast - Day 16
+DESCRIPTION:Ghee + Veg Pongal | Bhature - 2 Pcs Big | Groundnut Chutney\, Sambar | Chole Curry | White Bread+Butter+Jam | Sprouts (1 small cup) | Boiled Egg (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-16-2026-11-16@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261116T123000
+DTEND;TZID=Asia/Kolkata:20261116T141500
+SUMMARY:Lunch - Day 16
+DESCRIPTION:Boiled Chana Salad with Onion & Tomato | Chapathi | White Rice | Palak Dal | Brinjal Sambar | Tomato Rice | Pesara Punugulu Curry (Pakka Andhra Style) | Capsicum Tomato Masala | Fryums | Butter Milk | Sorakaya Perugu Chutney | Jilebi | Ghee + Podi
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-16-2026-11-16@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261116T163000
+DTEND;TZID=Asia/Kolkata:20261116T181500
+SUMMARY:Snacks - Day 16
+DESCRIPTION:Dry Maggi (Non-Sticky) | Tomato Sauce | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-16-2026-11-16@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261116T191500
+DTEND;TZID=Asia/Kolkata:20261116T210000
+SUMMARY:Dinner - Day 16
+DESCRIPTION:Onions & Lemon Salad | Roti | White Rice | Pesara Pappu | Andhra Charu | Bhagara Rice | Hyderabadi Chicken Curry (Non-Veg) | Paneer Butter Masala (Veg) | Ladies Finger Boiled Fry | Thick Curd | Water Melon Cut Fruit | Radish Fresh Chutney | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-17-2026-11-17@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261117T070000
+DTEND;TZID=Asia/Kolkata:20261117T090000
+SUMMARY:Breakfast - Day 17
+DESCRIPTION:Onion Dosa (3)\, Masala Dosa (17) - 2 Pcs Std Size | Vada Pav | Coconut Chutney | Mint Chutney | Brown Bread+Butter+Jam | Ragi Malt with Salt (1 Medium Glass) | Boiled Egg (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-17-2026-11-17@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261117T123000
+DTEND;TZID=Asia/Kolkata:20261117T141500
+SUMMARY:Lunch - Day 17
+DESCRIPTION:Carrot & Cucumber Salad | Roti | White Rice | Dosakaya Pappu | Beetroot Tomato Rasam | Bisbele Bath | Kakarakaya (Bitter Gourd) Fry | Rajma Masala | Potato Chips | Dahi Vada | Dosakaya Tomato Chutney | Ghee + Podi
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-17-2026-11-17@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261117T163000
+DTEND;TZID=Asia/Kolkata:20261117T181500
+SUMMARY:Snacks - Day 17
+DESCRIPTION:Aloo Samosa 1 Big Pc | Tomato Sauce\, Salt Mirchi | Ginger Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-17-2026-11-17@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261117T191500
+DTEND;TZID=Asia/Kolkata:20261117T210000
+SUMMARY:Dinner - Day 17
+DESCRIPTION:Beetroot & Carrot Salad | Pulka | White Rice | Dal Makhani | Kadamba Sambar | Mushroom Biryani | Cluster Beans Coconut Fry | Aloo Mutter Curry | Thick Curd | Banana Fruit | Ginger Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-18-2026-11-18@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261118T070000
+DTEND;TZID=Asia/Kolkata:20261118T090000
+SUMMARY:Breakfast - Day 18
+DESCRIPTION:Pesarattu Thin 2 Pcs Std Size | Tomato Suji Upma | Coconut Chutney | Ginger Chutney | White Bread+Butter+Jam | Sprouts (1 small cup) | Masala Onion Omlet  (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-18-2026-11-18@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261118T123000
+DTEND;TZID=Asia/Kolkata:20261118T141500
+SUMMARY:Lunch - Day 18
+DESCRIPTION:Onions & Lemon Salad | Palak Roti | White Rice | Amaranthus Dal | Pachi Pulusu | Bhagara Rice | Kadai Chicken | Kadai Paneer | Vegetable Jalfrezi | Papad | Butter Milk | Fresh Vegetable Chutney | Semiya Sabhudhana Kheer (4)\, Double ka Meeta (18)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-18-2026-11-18@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261118T163000
+DTEND;TZID=Asia/Kolkata:20261118T181500
+SUMMARY:Snacks - Day 18
+DESCRIPTION:Bhelpuri | Ginger Tea/Coffee/Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-18-2026-11-18@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261118T191500
+DTEND;TZID=Asia/Kolkata:20261118T210000
+SUMMARY:Dinner - Day 18
+DESCRIPTION:Beetroot & Carrot Salad | Chapathi | White Rice | Tomato Dal | Garlic Rasam | Broken Wheat Rava Upma\, Coconut Chutney | Bottle Guard Chana Dal Fry | Aloo Mutter Curry | Thick Curd | Pine Apple Cut Fruit | Lemon Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-19-2026-11-19@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261119T070000
+DTEND;TZID=Asia/Kolkata:20261119T090000
+SUMMARY:Breakfast - Day 19
+DESCRIPTION:Medu Vada (Big size 3pcs\, if not 4pcs) | Pav Bhaji | Sambar | Coconut Chutney | Brown Bread+Butter+Jam | Sprouts (1 small cup) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-19-2026-11-19@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261119T123000
+DTEND;TZID=Asia/Kolkata:20261119T141500
+SUMMARY:Lunch - Day 19
+DESCRIPTION:Carrot & Cucumber Salad | Pulka | White Rice | Ridge Gourd Dal | Drumstick Brinjal Sambar | Pudina Rice | Guthi Vankaya Curry | Kala Chana Masala | Finger Fryums | Lemon Water + Sabja Seeds | Potlakaya Perugu Chutney | Ghee + Podi
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-19-2026-11-19@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261119T163000
+DTEND;TZID=Asia/Kolkata:20261119T181500
+SUMMARY:Snacks - Day 19
+DESCRIPTION:Mysore Bonda 2 Pcs Std Size (Less Oily) | Coconut Chutney | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-19-2026-11-19@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261119T191500
+DTEND;TZID=Asia/Kolkata:20261119T210000
+SUMMARY:Dinner - Day 19
+DESCRIPTION:Beetroot & Carrot Salad | Roti | White Rice | Dal Fry | Beetroot Tomato Rasam | Veg Manchurian\, Noodles\, Tomato Sauce | Dhaba Style Egg Curry (Non-Veg) | Rajma Masala | Thick Curd | Green Grapes | Gongura Fresh Chutney | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-20-2026-11-20@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261120T070000
+DTEND;TZID=Asia/Kolkata:20261120T090000
+SUMMARY:Breakfast - Day 20
+DESCRIPTION:Poori (3 pcs standard size) | Rice Rava Upma (Dry) | Aloo Basin Chutney | Dal Chutney | Brown Bread+Butter+Jam | Ragi Malt with Salt (1 Medium Glass) | Boiled Egg (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-20-2026-11-20@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261120T123000
+DTEND;TZID=Asia/Kolkata:20261120T141500
+SUMMARY:Lunch - Day 20
+DESCRIPTION:Beetroot & Cucumber Salad | Chapathi | White Rice | Dal Tadka | Andhra Charu | Jeera Rice | Raw Banana Fry | Turnip Spinach Curry (Punjabi Style) | Papad | Lassi | Beerakaya Chutney | Carrot Halwa
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-20-2026-11-20@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261120T163000
+DTEND;TZID=Asia/Kolkata:20261120T181500
+SUMMARY:Snacks - Day 20
+DESCRIPTION:Sambar Vada 2 Pcs (Separate) | Masala Tea/Coffee/Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-20-2026-11-20@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261120T191500
+DTEND;TZID=Asia/Kolkata:20261120T210000
+SUMMARY:Dinner - Day 20
+DESCRIPTION:Onions & Lemon Salad | Beetroot Chapathi | White Rice | Dal | Mix Veg Sambar | Chicken Tikka Masala (Non-Veg) | Paneer Lababdar (Veg) | Amritsari Chole | Thick Curd | Muskmelon Cut Fruit | Amla Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-21-2026-11-21@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261121T070000
+DTEND;TZID=Asia/Kolkata:20261121T090000
+SUMMARY:Breakfast - Day 21
+DESCRIPTION:Uggani + Mirchi Bajji | Moong Dal Palak Tepla (Hand Made) 2 Pcs | Groundnut Chutney | Onion Tomato Chutney | Brown Bread+Butter+Jam | Ragi Malt with Salt (1 Medium Glass) | Boiled Egg (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-21-2026-11-21@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261121T123000
+DTEND;TZID=Asia/Kolkata:20261121T141500
+SUMMARY:Lunch - Day 21
+DESCRIPTION:Carrot & Cucumber Salad | Pulka | White Rice | Mudda Pappu | Pachi Pulusu | Pulihora (Tamarind Rice) | Cauli Flower Fry | Chole Curry | Papad | Majjiga Pulusu | Avakaya (Mango Pickle) | Ghee + Podi
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-21-2026-11-21@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261121T163000
+DTEND;TZID=Asia/Kolkata:20261121T181500
+SUMMARY:Snacks - Day 21
+DESCRIPTION:Vada Pav 2 Pcs | Mint Sauce | Cold Badam Milk (1 Medium Glass)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-21-2026-11-21@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261121T191500
+DTEND;TZID=Asia/Kolkata:20261121T210000
+SUMMARY:Dinner - Day 21
+DESCRIPTION:Beetroot & Carrot Salad | Roti | White Rice | Dal Maharani | Drumstick Sambar | Ghee + Podi + Idly\, Coconut Chutney | Tomato Baingan Fry | Thick Curd | Banana | Red Chilli Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-22-2026-11-22@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261122T071500
+DTEND;TZID=Asia/Kolkata:20261122T091500
+SUMMARY:Breakfast - Day 22
+DESCRIPTION:Shavige Bath | Aloo Paratha (2 Pcs Thin) | Mint Coriander Chutney | Thick Curd\, Mango Pickle | White Bread+Butter+Jam | Sprouts (1 small cup) | Egg Bhurji (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-22-2026-11-22@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261122T123000
+DTEND;TZID=Asia/Kolkata:20261122T141500
+SUMMARY:Lunch - Day 22
+DESCRIPTION:Onions & Lemon Salad | Chapathi | White Rice | Dal Makhani | Chicken Fry Piece Biryani/Paneer Fry Piece Biryani | Chicken Thick Gravy / Hyderabadi Mirchi Ka Salan | Onion Raitha | Tomato Rasam | Fryums | Mint Lemon Jal Jeera Drink (200 ml) | Fresh Gongura Chutney | Vanilla Ice Cream  (Not Frozen Dessert)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-22-2026-11-22@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261122T163000
+DTEND;TZID=Asia/Kolkata:20261122T181500
+SUMMARY:Snacks - Day 22
+DESCRIPTION:Dahi Papdi Chat | Onions | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-22-2026-11-22@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261122T191500
+DTEND;TZID=Asia/Kolkata:20261122T210000
+SUMMARY:Dinner - Day 22
+DESCRIPTION:Beetroot & Carrot Salad | Pulka | White Rice | Pesara Pappu | Radish Sambar | Karam Dosa (2 Pcs Thin)\, Coconut Chutney | Dondakaya Fry | Drumstick Tomato Curry | Thick Curd | Papaya Cut Fruit | Tomato Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-23-2026-11-23@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261123T071500
+DTEND;TZID=Asia/Kolkata:20261123T091500
+SUMMARY:Breakfast - Day 23
+DESCRIPTION:Vegetable Moong Dal Kitchidi | Bhature - 3 Pcs Big | Peanut Chutney\, Sambar | Chole Curry | Brown Bread+Butter+Jam | Sprouts (1 small cup) | Masala Omlet (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-23-2026-11-23@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261123T123000
+DTEND;TZID=Asia/Kolkata:20261123T141500
+SUMMARY:Lunch - Day 23
+DESCRIPTION:Boiled Chana Salad with Onion & Tomato | Chapathi | White Rice | Palak Dal | Brinjal Sambar | Ghee Rice | French Beans Potato Fry | Ghobi Masala | Fryums | Butter Milk | Sorakaya Perugu Chutney\, Ghee + Podi | Semiya Sabhudhana Kheer | Ghee + Podi
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-23-2026-11-23@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261123T163000
+DTEND;TZID=Asia/Kolkata:20261123T181500
+SUMMARY:Snacks - Day 23
+DESCRIPTION:Mexican Sweet Corn Salad | Lemon Sauce | Masala Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-23-2026-11-23@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261123T191500
+DTEND;TZID=Asia/Kolkata:20261123T210000
+SUMMARY:Dinner - Day 23
+DESCRIPTION:Onions & Lemon Salad | Methi Roti | White Rice | Dal Tadka | Jeera-Milagu Rasam | Bhagara Rice | Chettinad Chicken Curry (Non-Veg) | Paneer Green Peas Masala (Veg) | Snake Gourd Poriyal | Thick Curd | Water Melon Cut Fruit | Gongura Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-25-2026-11-25@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261125T070000
+DTEND;TZID=Asia/Kolkata:20261125T090000
+SUMMARY:Breakfast - Day 25
+DESCRIPTION:Ghee Podi Dosa (2 Pcs Thin) | Pav Bhaji | Coconut Chutney\, Sambar | Mint Chutney | White Bread+Butter+Jam | Ragi Malt with Salt (1 Medium Glass) | Scrambled Egg (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-25-2026-11-25@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261125T123000
+DTEND;TZID=Asia/Kolkata:20261125T141500
+SUMMARY:Lunch - Day 25
+DESCRIPTION:Carrot & Cucumber Salad | Roti | White Rice | Amaranthus Dal | Beetroot Tomato Rasam | Bisbele Bath | Kakarakaya (Bitter Gourd) Fry | Rajma Masala | Kara Boondi | Dahi Vada | Dosakaya Tomato Chutney | Ghee + Podi
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-25-2026-11-25@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261125T163000
+DTEND;TZID=Asia/Kolkata:20261125T181500
+SUMMARY:Snacks - Day 25
+DESCRIPTION:Aloo Samosa 1 Big Pc | Tomato Sauce\, Salt Mirchi | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-25-2026-11-25@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261125T191500
+DTEND;TZID=Asia/Kolkata:20261125T210000
+SUMMARY:Dinner - Day 25
+DESCRIPTION:Beetroot & Carrot Salad | Pulka | White Rice | Dal Makhani | Kadamba Sambar | Mushroom Biryani | French Beans Coconut Poriyal | Aloo Mutter Curry | Thick Curd | Banana | Tomato Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-26-2026-11-26@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261126T070000
+DTEND;TZID=Asia/Kolkata:20261126T090000
+SUMMARY:Breakfast - Day 26
+DESCRIPTION:Methi Poori (3 Pcs standard size) | Lemon Sevai | Aloo Mutter Curry (12)\, Chickpea Masala (26) | Coconut Chutney | White Bread+Butter+Jam | Sprouts (1 small cup) | Masala Onion Omlet (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-26-2026-11-26@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261126T123000
+DTEND;TZID=Asia/Kolkata:20261126T141500
+SUMMARY:Lunch - Day 26
+DESCRIPTION:Carrot & Cucumber Salad | Pulka | White Rice | Sorrel Leaves Dal (Gongura Pappu) | Drumstick Brinjal Sambar | Pudina Rice | Guthi Vankaya Curry | Ridge Gourd Fry | Finger Fryums | Lemon Water + Sabja Seeds | Potlakaya Perugu Chutney | Ghee + Podi
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-26-2026-11-26@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261126T163000
+DTEND;TZID=Asia/Kolkata:20261126T181500
+SUMMARY:Snacks - Day 26
+DESCRIPTION:Boiled Peanuts with Onion/Tomato(12 ) | Boiled Black Chana with Onion/Tomato (26) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-26-2026-11-26@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261126T191500
+DTEND;TZID=Asia/Kolkata:20261126T210000
+SUMMARY:Dinner - Day 26
+DESCRIPTION:Onions & Lemon Salad | Roti | White Rice | Dal Fry | Beetroot Tomato Rasam | Veg Manchuria\, Noodles\, Tomato Sauce | Black Channa Curry | Thick Curd | Banana | Gongura Fresh Chutney | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-27-2026-11-27@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261127T070000
+DTEND;TZID=Asia/Kolkata:20261127T090000
+SUMMARY:Breakfast - Day 27
+DESCRIPTION:Uggani + Mirchi Bajji | Vegetable Daliya Kitchidi | Coconut Chutney | Mango Pickle | Brown Bread+Butter+Jam | Sprouts (1 small cup) | Boiled Egg (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-27-2026-11-27@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261127T123000
+DTEND;TZID=Asia/Kolkata:20261127T141500
+SUMMARY:Lunch - Day 27
+DESCRIPTION:Beetroot & Cucumber Salad | Chapathi | White Rice | Dal Tadka | Rasam | Jeera Rice | Raw Banana Fry | Red Rajma Masala | Papad | Butter Milk | Beerakaya Chutney | Moong Dal Payasam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-27-2026-11-27@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261127T163000
+DTEND;TZID=Asia/Kolkata:20261127T181500
+SUMMARY:Snacks - Day 27
+DESCRIPTION:Aloo Bonda (Medium size 2 pc) | Coconut Chutney | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-27-2026-11-27@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261127T191500
+DTEND;TZID=Asia/Kolkata:20261127T210000
+SUMMARY:Dinner - Day 27
+DESCRIPTION:Onions & Lemon Salad | Lacha Paratha | White Rice | Pesara Pappu | Mix Veg Sambar | Garlic Chicken Curry (Non-Veg) | Paneer Tikka Masala (Veg) | Tomato Peas Capsicum Masala | Thick Curd | Muskmelon Cut Fruit | Mango Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-28-2026-11-28@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261128T070000
+DTEND;TZID=Asia/Kolkata:20261128T090000
+SUMMARY:Breakfast - Day 28
+DESCRIPTION:Mix Veg Utappam - 2 Pcs Std Size | Vegetable Poha | Peanut Chutney | Tomato Chutney | White Bread+Butter+Jam | Sprouts (1 small cup) | Boiled Egg (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-28-2026-11-28@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261128T123000
+DTEND;TZID=Asia/Kolkata:20261128T141500
+SUMMARY:Lunch - Day 28
+DESCRIPTION:Carrot & Cucumber Salad | Pulka | White Rice | Mudda Pappu | Pachi Pulusu | Pulihora (Tamarind Rice) | Radish Tomato Stir Fry | Chole Curry | Papad | Majiga Pulusu | Avakaya (Mango Pickle) | Ghee + Podi
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-28-2026-11-28@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261128T163000
+DTEND;TZID=Asia/Kolkata:20261128T181500
+SUMMARY:Snacks - Day 28
+DESCRIPTION:Punugulu 8 Pcs Medium Size | Groundnut/Coconut Chutney | Cold Badam Milk 150 ml
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-28-2026-11-28@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261128T191500
+DTEND;TZID=Asia/Kolkata:20261128T210000
+SUMMARY:Dinner - Day 28
+DESCRIPTION:Beetroot & Carrot Salad | Roti | White Rice | Dal Maharani | Bendakaya (Bhindi) Pulusu | Vegetable Fried Rice\, Gobhi Manchuria\, Tomato Sauce | Cabbage Beans Poriyal | Thick Curd | Fruit Custard with Custard Apple | Red Chilli Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-29-2026-11-29@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261129T071500
+DTEND;TZID=Asia/Kolkata:20261129T091500
+SUMMARY:Breakfast - Day 29
+DESCRIPTION:Shavige Bath | Paneer Paratha - 2 Pcs Thin | Peanut Chutney | Thick Curd\, Mango Pickle | Brown Bread+butter+Jam | Sprouts (1 small cup) | Egg Bhurji (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-29-2026-11-29@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261129T123000
+DTEND;TZID=Asia/Kolkata:20261129T141500
+SUMMARY:Lunch - Day 29
+DESCRIPTION:Onions & Lemon Salad | Chapathi | White Rice | Dal Fry | Chicken Dum Biryani/Paneer Dum Biryani | Chicken Thick Gravy / Hyderabadi Mirchi Ka Salan | Tomato Rasam | Onion Raitha | Triangular Fryums | Mint Lemon Jal Jeera Drink (200 ml) | Fresh Gongura Chutney | Basundhi (60 ml)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-29-2026-11-29@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261129T163000
+DTEND;TZID=Asia/Kolkata:20261129T181500
+SUMMARY:Snacks - Day 29
+DESCRIPTION:Cup Cake (Egg Less) 2 Pcs (1)\, Dahi Puri (8 Pcs)\, Onions (15\, 29) | Masala Tea/Coffee/Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-29-2026-11-29@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261129T191500
+DTEND;TZID=Asia/Kolkata:20261129T210000
+SUMMARY:Dinner - Day 29
+DESCRIPTION:Beetroot & Carrot Salad | Pulka | White Rice | Pesara Pappu | Radish Sambar | Ragi Idly\, Groundnut Chutney | Dondakaya Stir Fry | Vegetable Kurma Gravy | Thick Curd | Papaya Cut Fruit | Tomato Pickle | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Breakfast---Day-30-2026-11-30@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261130T071500
+DTEND;TZID=Asia/Kolkata:20261130T091500
+SUMMARY:Breakfast - Day 30
+DESCRIPTION:Ghee + Veg Pongal | Bhature - 2 Pcs Big | Groundnut Chutney\, Sambar | Chole Curry | White Bread+Butter+Jam | Sprouts (1 small cup) | Boiled Egg (Non-Veg) | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Lunch---Day-30-2026-11-30@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261130T123000
+DTEND;TZID=Asia/Kolkata:20261130T141500
+SUMMARY:Lunch - Day 30
+DESCRIPTION:Boiled Chana Salad with Onion & Tomato | Chapathi | White Rice | Palak Dal | Brinjal Sambar | Tomato Rice | Pesara Punugulu Curry (Pakka Andhra Style) | Capsicum Tomato Masala | Fryums | Butter Milk | Sorakaya Perugu Chutney | Jilebi | Ghee + Podi
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Snacks---Day-30-2026-11-30@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261130T163000
+DTEND;TZID=Asia/Kolkata:20261130T181500
+SUMMARY:Snacks - Day 30
+DESCRIPTION:Dry Maggi (Non-Sticky) | Tomato Sauce | Tea | Coffee | Milk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Dinner---Day-30-2026-11-30@vit-ap-mess
+DTSTART;TZID=Asia/Kolkata:20261130T191500
+DTEND;TZID=Asia/Kolkata:20261130T210000
+SUMMARY:Dinner - Day 30
+DESCRIPTION:Onions & Lemon Salad | Roti | White Rice | Pesara Pappu | Andhra Charu | Bhagara Rice | Hyderabadi Chicken Curry (Non-Veg) | Paneer Butter Masala (Veg) | Ladies Finger Boiled Fry | Thick Curd | Water Melon Cut Fruit | Radish Fresh Chutney | Milk + Cofee Powder
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
